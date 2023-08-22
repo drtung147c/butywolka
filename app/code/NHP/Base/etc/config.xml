@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <import>
+            <general>
+                <url_path>https://butywolka24.eu/pub/media/catalog/product/cache/19d4e819f05f80a93108f33f97eed5f0</url_path>
+            </general>
+        </import>
+    </default>
+</config>
